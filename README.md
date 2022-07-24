@@ -5,8 +5,8 @@
 - ebrahim.karjatwala@stud.uni-due.de 
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![javascript](https://img.shields.io/badge/Javascript-CB391A?style=for-the-badge&logo=Javascript&logoColor=yellow)
-
+![javascript](https://img.shields.io/badge/Javascript-#F7F130?style=for-the-badge&logo=Javascript&logoColor=yellow)
+![html5](https://img.shields.io/badge/HTML5-FA3A0F?style=for-the-badge&logo=Javascript&logoColor=yellow)
 
 
 <!---
